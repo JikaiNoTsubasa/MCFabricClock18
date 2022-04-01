@@ -1,9 +1,5 @@
-# Fabric Example Mod
+# MCFabricClock18
 
-## Setup
+## Info
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Fabric mod for MC 1.18.2 and Java17 displaying a in game clock
